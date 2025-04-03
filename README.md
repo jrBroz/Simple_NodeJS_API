@@ -1,1 +1,1 @@
-### Estudo em Node js sobre API Rest com Express
+### Estudo em Node js sobre API Rest com Express & JWT
